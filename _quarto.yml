@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Econ 149"
+  favicon: "plot/econ149-hex-logo.png"
+  
+  repo-url: https://github.com/econ149/econ149-site
+  site-url: https://econ149.github.io/econ149-site/
+  
+  sidebar:
+    style: docked
+    pinned: true
+    seacrh: true
+    logo: "plot/econ149-hex-logo.png"
+    contents:
+      - href: "index.qmd"
+        text: "Home"
+      - section: "Topics"
+        contents:
+          - href: "m1-tests-on-means.qmd"
+            text: "Module 1: Tests on means"
+          - href: "module-insert-here.qmd"
+            text: "Module 2: Correlation analysis"
+          - href: "module-insert-here.qmd"
+            text: "Module 3: Multiple linear regression"
+          - href: "module-insert-here.qmd"
+            text: "Module 4: Limited dependent variable"
+          - href: "module-insert-here.qmd"
+            text: "Module 5: Technical efficiency analysis"
+          - href: "module-insert-here.qmd"
+            text: "Module 6: Exploratory factor analysis (EFA)"
+          - href: "module-insert-here.qmd"
+            text: "Module 7: Confirmatory factor analysis (CFA)"
+          - href: "module-insert-here.qmd"
+            text: "Module 8: Covariance-based SEM"
+          - href: "module-insert-here.qmd"
+            text: "Module 2: Partial least squares SEM"
+
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, dark-style.scss]
+    mainfont: "Arial"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+editor: visual
+
