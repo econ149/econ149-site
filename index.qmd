@@ -61,3 +61,6 @@ By the end of this course, students will be able to:
 |            |                                               | 4.  Confirmatory factor anlysis                   | 4.  Understand model-based factor anlaysis and develop proficiency in evaluating model fit and making necessary adjustments to improve analysis.                                                                                     |
 |            |                                               | 5.  Structural equation modelling                 | 5.  Apply SEM techniques to understand relationships among variables and construct theoretical models.                                                                                                                               |
 +------------+-----------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKfeIAjbBdnCykhjM-YxuAHauuZxoWCcYNuk-cVggDXyEm9vwf_x9N6v8hAC_Bonvtti2VIKo_HwWT/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
