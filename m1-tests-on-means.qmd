@@ -2,12 +2,12 @@
 title: "Tests on means"
 ---
 
-1. Introduction to hypothesis testing
-2. Parametric vs non-parametric tests
-3. Independent sample t-test
-4. Paired sample t-test
-5. One-way ANOVA
-6. Chi-square test
+1.  Introduction to hypothesis testing
+2.  Parametric vs non-parametric tests
+3.  Independent sample t-test
+4.  Paired sample t-test
+5.  One-way ANOVA
+6.  Chi-square test
 
 <a href="https://econ149.github.io/econ149-lecture/module-1-tests-on-means" target="_blank" class="btn-slides">View slides in new window</a>
 
@@ -36,4 +36,3 @@ title: "Tests on means"
 ::::
 
 <br>
-

@@ -16,14 +16,14 @@ This course focuses on implementing various statistical methods and modeling app
 
 By the end of this course, students will be able to:
 
-- Perform statistical hypothesis testing using tests on means to analyze economic data.
-- Assess relationships between variables using correlation and multiple regression analysis.
-- Apply limited dependent variable models such as Logit, Probit, and Tobit in economic research.
-- Measure technical efficiency using Data Envelopment Analysis (DEA) and Stochastic Frontier Analysis (SFA).
-- Extract and interpret latent variables using Exploratory Factor Analysis (EFA).
-- Develop measurement models through Confirmatory Factor Analysis (CFA).
-- Construct and estimate structural equation models using both Covariance-Based SEM (CB-SEM) and Partial Least Squares SEM (PLS-SEM).
-- Implement econometric techniques in R, ensuring reproducibility and proper visualization of results.
+-   Perform statistical hypothesis testing using tests on means to analyze economic data.
+-   Assess relationships between variables using correlation and multiple regression analysis.
+-   Apply limited dependent variable models such as Logit, Probit, and Tobit in economic research.
+-   Measure technical efficiency using Data Envelopment Analysis (DEA) and Stochastic Frontier Analysis (SFA).
+-   Extract and interpret latent variables using Exploratory Factor Analysis (EFA).
+-   Develop measurement models through Confirmatory Factor Analysis (CFA).
+-   Construct and estimate structural equation models using both Covariance-Based SEM (CB-SEM) and Partial Least Squares SEM (PLS-SEM).
+-   Implement econometric techniques in R, ensuring reproducibility and proper visualization of results.
 
 ### Course outline
 
@@ -62,5 +62,3 @@ By the end of this course, students will be able to:
 |            |                                               | 5.  Structural equation modelling                 | 5.  Apply SEM techniques to understand relationships among variables and construct theoretical models.                                                                                                                               |
 +------------+-----------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKfeIAjbBdnCykhjM-YxuAHauuZxoWCcYNuk-cVggDXyEm9vwf_x9N6v8hAC_Bonvtti2VIKo_HwWT/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
