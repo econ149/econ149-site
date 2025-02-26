@@ -22,7 +22,7 @@ website:
         contents:
           - href: "m1-tests-on-means.qmd"
             text: "Module 1: Tests on means"
-          - href: "module-insert-here.qmd"
+          - href: "m2-correlations.qmd"
             text: "Module 2: Correlation analysis"
           - href: "module-insert-here.qmd"
             text: "Module 3: Multiple linear regression"

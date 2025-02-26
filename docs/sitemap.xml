@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://econ149.github.io/econ149-site/m1-tests-on-means.html</loc>
-    <lastmod>2025-02-03T07:30:55.038Z</lastmod>
+    <loc>https://econ149.github.io/econ149-site/m2-correlations.html</loc>
+    <lastmod>2025-02-26T01:00:52.398Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ149.github.io/econ149-site/index.html</loc>
+    <lastmod>2025-02-05T00:45:36.032Z</lastmod>
   </url>
   <url>
     <loc>https://econ149.github.io/econ149-site/about.html</loc>
     <lastmod>2025-02-03T07:29:43.858Z</lastmod>
   </url>
   <url>
-    <loc>https://econ149.github.io/econ149-site/index.html</loc>
-    <lastmod>2025-02-05T00:45:36.032Z</lastmod>
+    <loc>https://econ149.github.io/econ149-site/m1-tests-on-means.html</loc>
+    <lastmod>2025-02-03T07:30:55.038Z</lastmod>
   </url>
 </urlset>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Tests on means – Econ 149</title>
+<title>Correlation analysis – Econ 149</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./m2-correlations.html" rel="next">
-<link href="./index.html" rel="prev">
+<link href="./module-insert-here.qmd" rel="next">
+<link href="./m1-tests-on-means.html" rel="prev">
 <link href="./plot/econ149-hex-logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./m1-tests-on-means.html">Topics</a></li><li class="breadcrumb-item"><a href="./m1-tests-on-means.html">Module 1: Tests on means</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./m1-tests-on-means.html">Topics</a></li><li class="breadcrumb-item"><a href="./m2-correlations.html">Module 2: Correlation analysis</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -128,13 +128,13 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./m1-tests-on-means.html" class="sidebar-item-text sidebar-link active">
+  <a href="./m1-tests-on-means.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Module 1: Tests on means</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./m2-correlations.html" class="sidebar-item-text sidebar-link">
+  <a href="./m2-correlations.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Module 2: Correlation analysis</span></a>
   </div>
 </li>
@@ -193,9 +193,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./m1-tests-on-means.html">Topics</a></li><li class="breadcrumb-item"><a href="./m1-tests-on-means.html">Module 1: Tests on means</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./m1-tests-on-means.html">Topics</a></li><li class="breadcrumb-item"><a href="./m2-correlations.html">Module 2: Correlation analysis</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Tests on means</h1>
+<h1 class="title">Correlation analysis</h1>
 </div>
 
 
@@ -213,16 +213,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 <ol type="1">
-<li>Introduction to hypothesis testing</li>
-<li>Parametric vs non-parametric tests</li>
-<li>Independent sample t-test</li>
-<li>Paired sample t-test</li>
-<li>One-way ANOVA</li>
-<li>Chi-square test</li>
+<li>Introduction</li>
+<li>Variance</li>
+<li>Covriance</li>
+<li>Pearson correlation</li>
+<li>Spearman correlation</li>
 </ol>
-<p><a href="https://econ149.github.io/econ149-lecture/module-1-tests-on-means" target="_blank" class="btn-slides">View slides in new window</a></p>
+<p><a href="https://econ149.github.io/econ149-lecture/module-2-correlation" target="_blank" class="btn-slides">View slides in new window</a></p>
 <div class="box" style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-<iframe width="100%" height="100%" src="https://econ149.github.io/econ149-lecture/module-1-tests-on-means" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+<iframe width="100%" height="100%" src="https://econ149.github.io/econ149-lecture/module-2-correlation" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
 </iframe>
 </div>
 <div class="callout callout-style-default callout-tip callout-titled">
@@ -824,13 +823,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./index.html" class="pagination-link" aria-label="Home">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Home</span>
+      <a href="./m1-tests-on-means.html" class="pagination-link" aria-label="Module 1: Tests on means">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Module 1: Tests on means</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./m2-correlations.html" class="pagination-link" aria-label="Module 2: Correlation analysis">
-        <span class="nav-page-text">Module 2: Correlation analysis</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./module-insert-here.qmd" class="pagination-link" aria-label="Module 3: Multiple linear regression">
+        <span class="nav-page-text">Module 3: Multiple linear regression</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
