@@ -1,5 +1,16 @@
 [
   {
+    "objectID": "m5-efa.html",
+    "href": "m5-efa.html",
+    "title": "Exploratory factor analysis (EFA)",
+    "section": "",
+    "text": "Objectives of factor analysis\nDesigning an Exploratory factor analysis\nAssumptions in Exploratory factor analysis\nDeriving factors and assessing overall fit\nInterpreting the factors\n\n\n\n\n\n\n\n\nNote\n\n\n\nDownload the R project file for this module here.\n\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
+    "crumbs": [
+      "Topics",
+      "Module 6: Exploratory factor analysis (EFA)"
+    ]
+  },
+  {
     "objectID": "m2-correlations.html",
     "href": "m2-correlations.html",
     "title": "Correlation analysis",

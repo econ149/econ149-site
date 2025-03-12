@@ -30,7 +30,7 @@ website:
             text: "Module 4: Limited dependent variable"
           - href: "module-insert-here.qmd"
             text: "Module 5: Technical efficiency analysis"
-          - href: "module-insert-here.qmd"
+          - href: "m5-efa.qmd"
             text: "Module 6: Exploratory factor analysis (EFA)"
           - href: "module-insert-here.qmd"
             text: "Module 7: Confirmatory factor analysis (CFA)"
