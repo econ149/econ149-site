@@ -32,7 +32,7 @@ website:
             text: "Module 5: Technical efficiency analysis"
           - href: "m5-efa.qmd"
             text: "Module 6: Exploratory factor analysis (EFA)"
-          - href: "module-insert-here.qmd"
+          - href: "m6-cfa-sem.qmd"
             text: "Module 7: Confirmatory factor analysis (CFA)"
           - href: "module-insert-here.qmd"
             text: "Module 8: Covariance-based SEM"
