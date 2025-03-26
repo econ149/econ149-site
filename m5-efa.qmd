@@ -2,13 +2,11 @@
 title: "Exploratory factor analysis (EFA)"
 ---
 
-1. CFA-SEM overview
-2. CFA-SEM with Lavaan
-3. Defining constructs
-4. Developing the overall measurement model
-5. Assessing measurement model validity
-6. Specifying the structural model
-7. Assessing structural model validity
+1.  Objectives of factor analysis
+2.  Designing an Exploratory factor analysis
+3.  Assumptions in Exploratory factor analysis
+4.  Deriving factors and assessing overall fit
+5.  Interpreting the factors
 
 <br>
 
@@ -16,10 +14,10 @@ title: "Exploratory factor analysis (EFA)"
 Download the R project file for this module [here](https://drive.google.com/drive/folders/1TxSHIh7c5yVlcxQH32ui9-rnoqoWC0wH?usp=sharing).
 :::
 
-<a href="https://econ149.github.io/econ149-lecture/module-6-cfa-cb-sem/" target="_blank" class="btn-slides">View slides in new window</a>
+<a href="https://econ149.github.io/econ149-lecture/module-5-efa" target="_blank" class="btn-slides">View slides in new window</a>
 
 ::: {.box style="padding-bottom:56.25%; position:relative; display:block; width: 100%"}
-<iframe width="100%" height="100%" src="https://econ149.github.io/econ149-lecture/module-6-cfa-cb-sem/" frameborder="0" allowfullscreen style="position:absolute; top:0; left: 0">
+<iframe width="100%" height="100%" src="https://econ149.github.io/econ149-lecture/module-5-efa" frameborder="0" allowfullscreen style="position:absolute; top:0; left: 0">
 
 </iframe>
 :::

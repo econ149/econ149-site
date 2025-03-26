@@ -2,9 +2,9 @@
   {
     "objectID": "m6-cfa-sem.html",
     "href": "m6-cfa-sem.html",
-    "title": "Exploratory factor analysis (EFA)",
+    "title": "Confirmatory factor analysis (CFA)",
     "section": "",
-    "text": "Objectives of factor analysis\nDesigning an Exploratory factor analysis\nAssumptions in Exploratory factor analysis\nDeriving factors and assessing overall fit\nInterpreting the factors\n\n\n\n\n\n\n\n\nNote\n\n\n\nDownload the R project file for this module here.\n\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
+    "text": "CFA-SEM overview\nCFA-SEM with Lavaan\nDefining constructs\nDeveloping the overall measurement model\nAssessing measurement model validity\nSpecifying the structural model\nAssessing structural model validity\n\n\n\n\n\n\n\n\nNote\n\n\n\nDownload the R project file for this module here.\n\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
     "crumbs": [
       "Topics",
       "Module 7: Confirmatory factor analysis (CFA)"
@@ -61,7 +61,7 @@
     "href": "m5-efa.html",
     "title": "Exploratory factor analysis (EFA)",
     "section": "",
-    "text": "CFA-SEM overview\nCFA-SEM with Lavaan\nDefining constructs\nDeveloping the overall measurement model\nAssessing measurement model validity\nSpecifying the structural model\nAssessing structural model validity\n\n\n\n\n\n\n\n\nNote\n\n\n\nDownload the R project file for this module here.\n\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
+    "text": "Objectives of factor analysis\nDesigning an Exploratory factor analysis\nAssumptions in Exploratory factor analysis\nDeriving factors and assessing overall fit\nInterpreting the factors\n\n\n\n\n\n\n\n\nNote\n\n\n\nDownload the R project file for this module here.\n\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
     "crumbs": [
       "Topics",
       "Module 6: Exploratory factor analysis (EFA)"
